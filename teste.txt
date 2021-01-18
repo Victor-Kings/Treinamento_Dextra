@@ -1,4 +1,8 @@
 teste arquivo branco modificação 1
 modifiquei de novo 2
+<<<<<<< Updated upstream
 mudou
 asdasd
+=======
+fazendo a alteração na branch errada
+>>>>>>> Stashed changes
